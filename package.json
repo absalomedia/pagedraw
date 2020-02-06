@@ -133,7 +133,7 @@
     "react-transition-group": "2.4.0",
     "request": "2.81.0",
     "safe-compare": "1.0.3",
-    "semantic-ui-react": "0.82.0",
+    "semantic-ui-react": "0.87.3",
     "shell-escape": "0.2.0",
     "stream-json": "0.5.2",
     "string.prototype.endswith": "0.2.0",
