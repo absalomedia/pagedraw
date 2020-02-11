@@ -106,7 +106,7 @@
     "number-generator": "2.1.1",
     "object-assign": "4.1.1",
     "path": "0.12.7",
-    "promise.prototype.finally": "3.1.0",
+    "promise.prototype.finally": "3.1.2",
     "prop-types": "15.6.2",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
