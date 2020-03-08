@@ -3797,9 +3797,9 @@ csv-streamify@^3.0.4:
   dependencies:
     through2 "2.0.1"
 
-csv-string@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/csv-string/-/csv-string-3.1.0.tgz#d32aac7f9e6a53deec0e9788f7ac886a4a9084e7"
+csv-string@3.1.8:
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/csv-string/-/csv-string-3.1.8.tgz#732ac993420a505471106aab00ab0183ba194fc2"
 
 cuint@^0.2.2:
   version "0.2.2"

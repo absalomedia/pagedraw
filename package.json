@@ -64,7 +64,7 @@
     "crc64-ecma182": "1.0.0",
     "create-react-class": "15.6.3",
     "css-loader": "0.28.7",
-    "csv-string": "3.1.0",
+    "csv-string": "3.1.8",
     "dotenv": "8.2.0",
     "dotenv-expand": "4.0.1",
     "es6-promise-pool": "2.5.0",
