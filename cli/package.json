@@ -48,7 +48,7 @@
     "postcss-flexbugs-fixes": "3.3.1",
     "postcss-loader": "2.1.6",
     "raw-loader": "0.5.1",
-    "request": "2.61.0",
+    "request": "2.88.2",
     "request-promise-native": "1.0.5",
     "resolve-from": "4.0.0",
     "secure-random-string": "1.0.0",
