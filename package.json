@@ -62,7 +62,7 @@
     "commondir": "1.0.1",
     "cors": "2.7.1",
     "crc64-ecma182": "1.0.0",
-    "create-react-class": "15.6.3",
+    "create-react-class": "15.7.0",
     "css-loader": "0.28.7",
     "csv-string": "3.1.8",
     "dotenv": "8.2.0",
