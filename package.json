@@ -85,7 +85,7 @@
     "forever": "2.0.0",
     "fs-extra": "3.0.1",
     "fuzzysearch": "1.0.3",
-    "highlight.js": "9.18.1",
+    "highlight.js": "9.18.2",
     "hopscotch": "0.3.1",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
